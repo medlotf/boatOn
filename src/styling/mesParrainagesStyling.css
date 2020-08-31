@@ -1,0 +1,24 @@
+.content{
+    margin-bottom: 60px;
+}
+
+.desc{
+    margin-bottom: 50px;
+}
+
+.content .verticalLigne{
+    border-right: 3px solid;
+}
+
+.content .textParr{
+    color: #3040a0;
+}
+
+p.paragParr {
+    font-size: 16px;
+    margin-top: -10px;
+}
+
+.titre,.descTitle{
+    margin-bottom: 30px;
+}

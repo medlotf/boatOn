@@ -1,0 +1,11 @@
+.list-group-item.act {
+    z-index: 2;
+    color: #fff;
+    background-color: #3040a0;
+    border-color: #3040a0;
+}
+
+.listgroup{
+    text-align: center;
+    font-size: 15px;
+}
